@@ -13,6 +13,7 @@
     <SUITE FILE_PATH="coverage/jqdata$.coverage" NAME="函数式编程 Coverage Results" MODIFIED="1533214850889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/jqdata$MyPython1.coverage" NAME="MyPython1 Coverage Results" MODIFIED="1532919185736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/jqdata$MyFnPython.coverage" NAME="MyFnPython Coverage Results" MODIFIED="1533022122458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/sunPythonLearning$.coverage" NAME="函数式编程 Coverage Results" MODIFIED="1533367964663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/jqdata$listAndTuple.coverage" NAME="listAndTuple Coverage Results" MODIFIED="1533200944492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="FileEditorManager">
@@ -148,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MyPython1">
+  <component name="RunManager" selected="Python.函数式编程">
     <configuration name="高级特性" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="jqdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,6 +164,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\sun\PycharmProjects\jqdata\src\函数式编程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="函数式编程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jqdata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/函数式编程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,9 +269,11 @@
       <item itemvalue="Python.MyFnPython" />
       <item itemvalue="Python.listAndTuple" />
       <item itemvalue="Python.高级特性" />
+      <item itemvalue="Python.函数式编程" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.函数式编程" />
         <item itemvalue="Python.高级特性" />
         <item itemvalue="Python.listAndTuple" />
         <item itemvalue="Python.MyFnPython" />
