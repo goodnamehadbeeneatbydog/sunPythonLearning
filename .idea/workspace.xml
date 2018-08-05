@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89fa4e1c-c139-4fd4-950e-f1d3e2acbcfb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classlearn/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classlearn/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modal/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modal/modal1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modal/模块.py" afterDir="false" />
+    <list default="true" id="89fa4e1c-c139-4fd4-950e-f1d3e2acbcfb" name="Default" comment="学习面向对象，模块化，函数式编程">
+      <change afterPath="$PROJECT_DIR$/src/classlearn/Animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classlearn/student1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classlearn/元类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classlearn/定制类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classlearn/实例属性与类属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classlearn/枚举.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classlearn/面向对象高级编程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/testMain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jqdata.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jqdata.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/函数式编程.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/函数式编程.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,39 +27,44 @@
     <SUITE FILE_PATH="coverage/jqdata$MyPython1.coverage" NAME="MyPython1 Coverage Results" MODIFIED="1532919185736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/jqdata$MyFnPython.coverage" NAME="MyFnPython Coverage Results" MODIFIED="1533022122458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/jqdata$.coverage" NAME="函数式编程 Coverage Results" MODIFIED="1533214850889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/sunPythonLearning$modal1.coverage" NAME="modal1 Coverage Results" MODIFIED="1533390897439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/modal" />
+    <SUITE FILE_PATH="coverage/sunPythonLearning$modal1.coverage" NAME="modal1 Coverage Results" MODIFIED="1533435335989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/modal" />
+    <SUITE FILE_PATH="coverage/sunPythonLearning$Animal.coverage" NAME="Animal Coverage Results" MODIFIED="1533466365757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/classlearn" />
+    <SUITE FILE_PATH="coverage/sunPythonLearning$except.coverage" NAME="except Coverage Results" MODIFIED="1533478267886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/exception" />
     <SUITE FILE_PATH="coverage/sunPythonLearning$student.coverage" NAME="student Coverage Results" MODIFIED="1533394440497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/classlearn" />
-    <SUITE FILE_PATH="coverage/sunPythonLearning$.coverage" NAME="函数式编程 Coverage Results" MODIFIED="1533390323504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/sunPythonLearning$.coverage" NAME="枚举 Coverage Results" MODIFIED="1533476813109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/classlearn" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-261839711">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1139" />
+          <entry key="py" value="3415" />
+          <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1139" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Python" value="3415" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
     </session>
@@ -63,76 +72,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPython1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyFnPython.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3960">
-              <caret line="110" column="24" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/高级特性listAndTuple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5508">
-              <caret line="153" column="27" selection-start-line="153" selection-start-column="27" selection-end-line="157" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/函数式编程.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9000">
-              <caret line="250" column="8" selection-start-line="250" selection-start-column="8" selection-end-line="250" selection-end-column="8" />
-              <folding>
-                <marker date="1533389536458" expanded="true" signature="3551:3556" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modal/模块.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modal/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modal/modal1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-958">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding>
-                <marker date="1533391477102" expanded="true" signature="151:156" ph="..." />
-                <marker date="1533391477102" expanded="true" signature="902:1003" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/classlearn/student.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="48" selection-end-column="57" />
+            <state relative-caret-position="1728">
+              <caret line="48" column="57" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
               <folding>
                 <marker date="1533394632508" expanded="true" signature="351:356" ph="..." />
               </folding>
@@ -141,19 +84,111 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/classlearn/student1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="432">
+              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+              <folding>
+                <marker date="1533459364344" expanded="true" signature="68:69" ph="..." />
+                <marker date="1533459364344" expanded="true" signature="68:74" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyFnTest.py">
+        <entry file="file://$PROJECT_DIR$/src/classlearn/Animal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="463">
+              <caret line="114" selection-start-line="114" selection-end-line="114" />
+              <folding>
+                <marker date="1533461468612" expanded="true" signature="67:68" ph="..." />
+                <marker date="1533461468612" expanded="true" signature="67:73" ph="..." />
+                <marker date="1533461468612" expanded="true" signature="146:151" ph="..." />
+                <marker date="1533461468612" expanded="true" signature="217:222" ph="..." />
+                <marker date="1533461468612" expanded="true" signature="217:270" ph="..." />
+                <marker date="1533461468612" expanded="true" signature="330:335" ph="..." />
+                <marker date="1533461468612" expanded="true" signature="406:411" ph="..." />
+                <marker date="1533461468612" expanded="true" signature="543:548" ph="..." />
+                <marker date="1533461468612" expanded="true" signature="1018:1415" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classlearn/实例属性与类属性.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/testMain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classlearn/面向对象高级编程.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+              <folding>
+                <marker date="1533472161117" expanded="true" signature="186:191" ph="..." />
+                <marker date="1533472161117" expanded="true" signature="265:270" ph="..." />
+                <marker date="1533472161117" expanded="true" signature="467:555" ph="..." />
+                <marker date="1533472161117" expanded="true" signature="718:719" ph="..." />
+                <marker date="1533472161117" expanded="true" signature="718:724" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classlearn/定制类.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classlearn/枚举.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <marker date="1533476878856" expanded="true" signature="346:507" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classlearn/元类.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="263" selection-end-column="59" />
+              <folding>
+                <marker date="1533477465211" expanded="true" signature="543:552" ph="..." />
+                <marker date="1533477465211" expanded="true" signature="1662:1671" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/exception/except.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -193,6 +228,15 @@
         <option value="$PROJECT_DIR$/src/modal/modal1.py" />
         <option value="$PROJECT_DIR$/src/modalTest.py" />
         <option value="$PROJECT_DIR$/src/classlearn/student.py" />
+        <option value="$PROJECT_DIR$/src/classlearn/student1.py" />
+        <option value="$PROJECT_DIR$/src/classlearn/Animal.py" />
+        <option value="$PROJECT_DIR$/src/classlearn/实例属性与类属性.py" />
+        <option value="$PROJECT_DIR$/src/main/testMain.py" />
+        <option value="$PROJECT_DIR$/src/classlearn/面向对象高级编程.py" />
+        <option value="$PROJECT_DIR$/src/classlearn/定制类.py" />
+        <option value="$PROJECT_DIR$/src/classlearn/枚举.py" />
+        <option value="$PROJECT_DIR$/src/classlearn/元类.py" />
+        <option value="$PROJECT_DIR$/src/exception/except.py" />
       </list>
     </option>
   </component>
@@ -213,7 +257,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,20 +273,30 @@
               <item name="sunPythonLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="sunPythonLearning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classlearn" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="jqdata" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="jqdata" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -263,8 +316,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.student">
-    <configuration name="高级特性" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.except">
+    <configuration name="枚举" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="jqdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,12 +325,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/classlearn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\sun\PycharmProjects\jqdata\src\函数式编程.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/classlearn/枚举.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +339,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MyFnPython" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="面向对象高级编程" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="jqdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,12 +347,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/classlearn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/MyFnPython.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/classlearn/面向对象高级编程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Animal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jqdata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/classlearn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/classlearn/Animal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,7 +443,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="listAndTuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="except" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="jqdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -376,12 +451,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/exception" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\sun\PycharmProjects\jqdata\src\高级特性listAndTuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/exception/except.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,42 +487,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="jqdata" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/classlearn" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/classlearn/student.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.MyFnPython" />
-      <item itemvalue="Python.listAndTuple" />
-      <item itemvalue="Python.高级特性" />
       <item itemvalue="Python.modal1" />
-      <item itemvalue="Python.student" />
+      <item itemvalue="Python.Animal" />
+      <item itemvalue="Python.面向对象高级编程" />
+      <item itemvalue="Python.枚举" />
+      <item itemvalue="Python.except" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.student" />
+        <item itemvalue="Python.except" />
+        <item itemvalue="Python.枚举" />
+        <item itemvalue="Python.面向对象高级编程" />
+        <item itemvalue="Python.Animal" />
         <item itemvalue="Python.modal1" />
-        <item itemvalue="Python.高级特性" />
-        <item itemvalue="Python.listAndTuple" />
-        <item itemvalue="Python.MyFnPython" />
       </list>
     </recent_temporary>
   </component>
@@ -462,18 +515,25 @@
       <option name="presentableId" value="Default" />
       <updated>1532911741338</updated>
     </task>
+    <task id="LOCAL-00001" summary="学习面向对象，模块化，函数式编程">
+      <created>1533394883161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533394883161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49582636" visible="true" weight="0.27132195" />
-      <window_info id="Structure" order="1" sideWeight="0.50417364" side_tool="true" visible="true" weight="0.27132195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7161937" visible="true" weight="0.27345416" />
+      <window_info id="Structure" order="1" sideWeight="0.28380635" side_tool="true" weight="0.27132195" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32964602" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3322185" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3322185" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -496,6 +556,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学习面向对象，模块化，函数式编程" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习面向对象，模块化，函数式编程" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -559,13 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/modal/模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/modal/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -583,10 +640,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/modal/模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/modal/modal1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-958">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="81">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <marker date="1533391477102" expanded="true" signature="151:156" ph="..." />
             <marker date="1533391477102" expanded="true" signature="902:1003" ph="..." />
@@ -596,11 +660,103 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classlearn/student.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="48" selection-end-column="57" />
+        <state relative-caret-position="1728">
+          <caret line="48" column="57" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
           <folding>
             <marker date="1533394632508" expanded="true" signature="351:356" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classlearn/student1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <marker date="1533459364344" expanded="true" signature="68:69" ph="..." />
+            <marker date="1533459364344" expanded="true" signature="68:74" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classlearn/Animal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+          <folding>
+            <marker date="1533461468612" expanded="true" signature="67:68" ph="..." />
+            <marker date="1533461468612" expanded="true" signature="67:73" ph="..." />
+            <marker date="1533461468612" expanded="true" signature="146:151" ph="..." />
+            <marker date="1533461468612" expanded="true" signature="217:222" ph="..." />
+            <marker date="1533461468612" expanded="true" signature="217:270" ph="..." />
+            <marker date="1533461468612" expanded="true" signature="330:335" ph="..." />
+            <marker date="1533461468612" expanded="true" signature="406:411" ph="..." />
+            <marker date="1533461468612" expanded="true" signature="543:548" ph="..." />
+            <marker date="1533461468612" expanded="true" signature="1018:1415" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classlearn/实例属性与类属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/testMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classlearn/面向对象高级编程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding>
+            <marker date="1533472161117" expanded="true" signature="186:191" ph="..." />
+            <marker date="1533472161117" expanded="true" signature="265:270" ph="..." />
+            <marker date="1533472161117" expanded="true" signature="467:555" ph="..." />
+            <marker date="1533472161117" expanded="true" signature="718:719" ph="..." />
+            <marker date="1533472161117" expanded="true" signature="718:724" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classlearn/定制类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classlearn/枚举.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1533476878856" expanded="true" signature="346:507" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classlearn/元类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="263" selection-end-column="59" />
+          <folding>
+            <marker date="1533477465211" expanded="true" signature="543:552" ph="..." />
+            <marker date="1533477465211" expanded="true" signature="1662:1671" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception/except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
