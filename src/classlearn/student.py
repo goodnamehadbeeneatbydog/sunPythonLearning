@@ -20,6 +20,8 @@ class Student(object):
         print("%s : %s" % (self.name, self.score))
 
 
+
+
 s1 = Student("sb", 88)
 s2 = Student("逗逼", 99)
 
